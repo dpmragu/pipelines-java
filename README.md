@@ -1,5 +1,6 @@
-
 # Contributing
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdpmragu%2Fpipelines-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdpmragu%2Fpipelines-java?ref=badge_shield)
+
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -29,3 +30,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdpmragu%2Fpipelines-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdpmragu%2Fpipelines-java?ref=badge_large)
